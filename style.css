@@ -18,9 +18,10 @@
     
 }
 
-#image{
+img{
     border: 10px;
     border-color: black;
+    align-content: center;
 
 }
 
@@ -34,7 +35,7 @@
     font-style: italic;
 }
 
-.description{
+.description {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25;
     text-align: justify;
